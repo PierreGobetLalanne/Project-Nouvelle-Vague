@@ -1,6 +1,8 @@
 # Project Nouvelle Vague
 Creating new musical instrument sounds using LSTM neural networks
 
+Results can be listened to on the project's Soundcloud account: https://soundcloud.com/user-193296275-69338376
+
 Dataset used for the notebook to run is is the NSynth dataset: https://magenta.tensorflow.org/datasets/nsynth
 
 Caution: dataset is large (several tens of Go)
